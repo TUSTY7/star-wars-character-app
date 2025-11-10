@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# star-wars-character-app
+A responsive React app that fetches and displays Star Wars characters from SWAPI. 
+Features dynamic character cards with random images, species-based styling, and modals showing detailed info including homeworld and film appearances.
+>>>>>>> 0c5546e1ac7959552259a97323b6d363446fa8ef
